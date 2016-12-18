@@ -6,6 +6,8 @@
 
  body {
     overflow-x: hidden;
+    background: url('sayagata/sayagata.png') repeat 0 0;
+    
  }
 
 /* Toggle Styles */
